@@ -11,13 +11,12 @@
 <img align="right" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi.github.io/main/round-profile.png" width="140px" style="max-width:100%;">
 
 ### ⭐About me
-
-- _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technology, Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ </br>
+- _Hey I'm [sumith](sumithemmadi.github.com) I'm web developer and  undergraduate IT student at [Indian Institute of Information Technology, Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)._ <br>
 - _I like to build things with Deep Learning/Machine Learning, Docker, Python, JavaScript , PHP_
 <!--
-  modern backend APIs, and modern frontend frameworks._</br>
+  modern backend APIs, and modern frontend frameworks._<br>
 -->
-- _Dreaming up ideas and making them come true is where my passion lies._</br>
+- _Dreaming up ideas and making them come true is where my passion lies._<br>
 - _Check out my full [projects list here](https://github.com/sumithemmadi?tab=repositories)._
 
 
