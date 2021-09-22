@@ -59,7 +59,8 @@
   ![Composer](https://img.shields.io/badge/-composer-040E2C?style=for-the-badge&logo=composer&logoColor=white)
   ![rubygems](https://img.shields.io/badge/-RubyGems-040E2C?style=for-the-badge&logo=rubygems&logoColor=crimson)
   ![Dialogflow](https://img.shields.io/badge/-Dialogflow-040E2C?style=for-the-badge&logo=dialogflow&logoColor=orange)
-
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-040E2C?style=for-the-badge&logo=google-cloud&logoColor=blue)
+  ![AWS](https://img.shields.io/badge/-AWS-040E2C?style=for-the-badge&logo=amazon&logoColor=orange)
 
   [![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi/sumithemmadi/blob/main/README.md)
 
