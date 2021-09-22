@@ -58,6 +58,8 @@
   ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white)
   ![Composer](https://img.shields.io/badge/-composer-040E2C?style=for-the-badge&logo=composer&logoColor=white)
   ![rubygems](https://img.shields.io/badge/-RubyGems-040E2C?style=for-the-badge&logo=rubygems&logoColor=crimson)
+  ![Dialogflow](https://img.shields.io/badge/-Dialogflow-040E2C?style=for-the-badge&logo=dialogflow&logoColor=orange)
+
 
   [![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi/sumithemmadi/blob/main/README.md)
 
