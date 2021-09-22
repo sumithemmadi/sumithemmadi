@@ -45,6 +45,8 @@
   ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Ruby](https://img.shields.io/badge/-Ruby-040E2C?style=for-the-badge&logo=ruby&logoColor=crimson)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
   ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
@@ -53,8 +55,9 @@
   [![GitLab](https://img.shields.io/badge/GitLab-040E2C?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sumithemmadi)
   ![Heroku](https://img.shields.io/badge/-Heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=6567a5)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-  ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white)
+  ![Composer](https://img.shields.io/badge/-composer-040E2C?style=for-the-badge&logo=composer&logoColor=white)
+  ![rubygems](https://img.shields.io/badge/-RubyGems-040E2C?style=for-the-badge&logo=rubygems&logoColor=crimson)
 
   [![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi/sumithemmadi/blob/main/README.md)
 
