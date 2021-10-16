@@ -93,4 +93,3 @@
 ![image](https://sumith-onion.000webhostapp.com/home.php?w=100&repo=webtest&branch=webbranch)
 -->
 ![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)
-<img src="https://sumith-onion.000webhostapp.com/home.php?w=100&repo=profile&branch=main">
