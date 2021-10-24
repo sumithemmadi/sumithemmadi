@@ -3,9 +3,7 @@
 [![Profile views](https://gpvc.arturio.dev/sumithemmadi)](https://github.com/sumithemmadi/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sumithemmadi/)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=I'm+a+student;I'm+a+developer)](https://github.com/sumithemmadi/)
-<br />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrR1Pim9vF7WqgbR27Wi_cn6GDUaCYV84GQ&usqp=CAU" >
-
+<br><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrR1Pim9vF7WqgbR27Wi_cn6GDUaCYV84GQ&usqp=CAU" >
 <img align="right" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi.github.io/main/round-profile.png" width="140px" style="max-width:100%;">
 
 ### ⭐About me
