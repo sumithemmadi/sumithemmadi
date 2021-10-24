@@ -27,15 +27,12 @@
 - _Problem Solving Skills in Data Structures and Algorithms._
 
 ### 🌱 I’m currently learning ...
--  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![php](https://img.shields.io/badge/PHP-040E2C?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-040E2C?style=for-the-badge&logo=python&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
-
-### 👯 I’m looking to collaborate on ...
-- _I’m looking forward to collaborate on different open-source projects._
 
 ### 🛠 Languages and Tools I use 
 
@@ -61,8 +58,7 @@
   ![Dialogflow](https://img.shields.io/badge/-Dialogflow-040E2C?style=for-the-badge&logo=dialogflow&logoColor=orange)
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-040E2C?style=for-the-badge&logo=google-cloud&logoColor=blue)
   ![AWS](https://img.shields.io/badge/-AWS-040E2C?style=for-the-badge&logo=amazon&logoColor=orange)
-
-  [![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&layout=compact&langs_count=10&title_color=blue)](https://github.com/sumithemmadi/)
+  [![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&theme=dark&layout=compact&langs_count=10&title_color=blue)](https://github.com/sumithemmadi/)
 
 <!--
 #### 🤔 I’m looking for help with ...
@@ -84,5 +80,5 @@
 ### More
 [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
-[![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi)
+[![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1&theme=dark)](https://github.com/sumithemmadi)
 [![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)](https://github.com/sumithemmadi/)
