@@ -83,13 +83,7 @@
 #### ⚡ Fun fact: ...-->
 
 ### More
-[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sumithemmadi/)
-<!--
-[![sumithemmadi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi)
--->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://git.io/streak-stats)
+[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
 [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi)
-<!--
-![image](https://sumith-onion.000webhostapp.com/home.php?w=100&repo=webtest&branch=webbranch)
--->
-![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)
+[![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)](https://github.com/sumithemmadi/)
