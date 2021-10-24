@@ -1,10 +1,8 @@
 ## Hi there 🙌, I'm Sumith
 
-<!-- [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com) -->
 [![Profile views](https://gpvc.arturio.dev/sumithemmadi)](https://github.com/sumithemmadi/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/sumithemmadi/)
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=sherif&color=F70000&lines=I'm+a+Student;I'm+a+Developer;)](https://git.io/typing-svg)
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=I'm+a+student;I'm+a+developer)](https://github.com/sumithemmadi/)
 <br />
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdrR1Pim9vF7WqgbR27Wi_cn6GDUaCYV84GQ&usqp=CAU" >
 
@@ -21,7 +19,7 @@
 
 
 ### 🛠 My skills include
--   _Web Developer_
+- _Web Developer_
 
 ### 🔭 I’m currently working on ...
 - _Problem Solving Skills in Data Structures and Algorithms._
@@ -60,25 +58,17 @@
   ![AWS](https://img.shields.io/badge/-AWS-040E2C?style=for-the-badge&logo=amazon&logoColor=orange)
   [![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&theme=dark&layout=compact&langs_count=10&title_color=blue)](https://github.com/sumithemmadi/)
 
-<!--
-#### 🤔 I’m looking for help with ...
-#### 💬 Ask me about ...
-#### 📫 How to reach me: ... -->
-
 #### 📫 Connect with me:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
-[![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
-[![Twitter](https://img.shields.io/badge/sumithemmadi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
-[![Telegram](https://img.shields.io/badge/sumithemmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
-[![Facebook](https://img.shields.io/badge/sumithemmadi-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
-[![Instagram](https://img.shields.io/badge/sumithemmadi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
-
-<!-- #### 😄 Pronouns: ...
-#### ⚡ Fun fact: ...-->
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
+  [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sumithemmadi@protonmail.com)
+  [![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
+  [![Twitter](https://img.shields.io/badge/sumithemmadi-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/sumithemmadi)
+  [![Telegram](https://img.shields.io/badge/sumithemmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
+  [![Facebook](https://img.shields.io/badge/sumithemmadi-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
+  [![Instagram](https://img.shields.io/badge/sumithemmadi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
 
 ### More
-[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
-[![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1&theme=dark)](https://github.com/sumithemmadi)
-[![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)](https://github.com/sumithemmadi/)
+  [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
+  [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi)
+  [![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)](https://github.com/sumithemmadi/)
