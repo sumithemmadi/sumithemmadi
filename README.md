@@ -62,7 +62,6 @@
   ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-040E2C?style=for-the-badge&logo=google-cloud&logoColor=blue)
   ![AWS](https://img.shields.io/badge/-AWS-040E2C?style=for-the-badge&logo=amazon&logoColor=orange)
 
-  [![SumithEmmadi's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi/sumithemmadi/blob/main/README.md)
   [![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&layout=compact&langs_count=10&title_color=blue)](https://github.com/sumithemmadi/)
 
 <!--
