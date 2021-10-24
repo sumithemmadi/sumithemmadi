@@ -83,7 +83,7 @@
 #### ⚡ Fun fact: ...-->
 
 ### More
-[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sumithemmadi/)
+[![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sumithemmadi/)
 <!--
 [![sumithemmadi's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&theme=blue-green)](https://github.com/sumithemmadi)
 -->
