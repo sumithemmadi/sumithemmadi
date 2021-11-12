@@ -66,7 +66,7 @@
   [![Instagram](https://img.shields.io/badge/sumithemmadi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
 
 ### More
-  [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&count_private=true&include_all_commits=true&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
+  [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&theme=tokyonight)](https://github.com/sumithemmadi/)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/)
   [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi)
   [![Sumith's github activity graph](https://activity-graph.herokuapp.com/graph?username=sumithemmadi&theme=react-dark)](https://github.com/sumithemmadi/)
