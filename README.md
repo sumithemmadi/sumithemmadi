@@ -35,9 +35,13 @@ Throughout my journey, I have actively worked on various projects and contribute
 
   - **Description**:  truecallerjs is a lightweight npm package that allows users to perform reverse phone number lookups using the Truecaller API. It simplifies the process of querying and handling Truecaller data, providing a seamless experience for developers.
 
-  - **Technologies**: Node.js, Axios,
+  - **Technologies**: Typescript, Axios
+  - 
+<a href="https://github.com/sumithemmadi/truecallerjs">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs" alt="TruecallerJS" width="400" height="200">
+</a>
 
-[![TruecallerJS](https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs)](https://github.com/sumithemmadi/truecallerjs)
+
 
 ### 2. [truecallerpy](https://github.com/sumithemmadi/truecallerjs)
 
@@ -45,7 +49,9 @@ Throughout my journey, I have actively worked on various projects and contribute
 
   - **Technologies**: Python, JSON
 
-[![Truecallerpy](https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerpy)](https://github.com/sumithemmadi/truecallerpy)
+<a href="https://github.com/sumithemmadi/truecallerpy">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerpy" alt="Truecallerpy" width="400" height="200">
+</a>
 
 ### 3. [json-to-plain-text](https://github.com/sumithemmadi/json-to-plain-text)
 
@@ -53,7 +59,10 @@ Throughout my journey, I have actively worked on various projects and contribute
 
   - **Technologies**: Node.js
     
-[![json-to-plain-text](https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/json-to-plain-text)](https://github.com/sumithemmadi/json-to-plain-text)
+<a href="https://github.com/sumithemmadi/json-to-plain-text">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/json-to-plain-text" alt="json-to-plain-text" width="400" height="200">
+</a>
+
 
 ### 4. [bhimupijs](https://github.com/sumithemmadi/bhimupijs)
 
@@ -61,7 +70,10 @@ Throughout my journey, I have actively worked on various projects and contribute
 
   - **Technologies**: Node.js
 
-[![bhimupijs](https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/bhimupijs)](https://github.com/sumithemmadi/bhimupijs)
+<a href="https://github.com/sumithemmadi/bhimupijs">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/bhimupijs" alt="bhimupijs" width="400" height="200">
+</a>
+
 
 Feel free to explore my other repositories for more projects, including experiments, utilities, and prototypes.
 
