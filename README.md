@@ -38,7 +38,7 @@ Throughout my journey, I have actively worked on various projects and contribute
   - **Technologies**: Typescript, Axios
   - 
 <a href="https://github.com/sumithemmadi/truecallerjs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs" alt="TruecallerJS" width="400" height="200">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs" alt="TruecallerJS" width="400" >
 </a>
 
 
@@ -50,7 +50,7 @@ Throughout my journey, I have actively worked on various projects and contribute
   - **Technologies**: Python, JSON
 
 <a href="https://github.com/sumithemmadi/truecallerpy">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerpy" alt="Truecallerpy" width="400" height="200">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerpy" alt="Truecallerpy" width="400" >
 </a>
 
 ### 3. [json-to-plain-text](https://github.com/sumithemmadi/json-to-plain-text)
@@ -60,7 +60,7 @@ Throughout my journey, I have actively worked on various projects and contribute
   - **Technologies**: Node.js
     
 <a href="https://github.com/sumithemmadi/json-to-plain-text">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/json-to-plain-text" alt="json-to-plain-text" width="400" height="200">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/json-to-plain-text" alt="json-to-plain-text" width="400" >
 </a>
 
 
@@ -71,7 +71,7 @@ Throughout my journey, I have actively worked on various projects and contribute
   - **Technologies**: Node.js
 
 <a href="https://github.com/sumithemmadi/bhimupijs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/bhimupijs" alt="bhimupijs" width="400" height="200">
+    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/bhimupijs" alt="bhimupijs" width="400" >
 </a>
 
 
