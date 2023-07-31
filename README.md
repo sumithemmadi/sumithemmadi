@@ -1,4 +1,7 @@
 # Welcome to My GitHub Profile!
+[![Profile views count](https://komarev.com/ghpvc/?username=sumithemmadi)](https://github.com/sumithemmadi)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/sumithemmadi)](https://github.com/sponsors/sumithemmadi)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer)](https://github.com/sumithemmadi/)
 
