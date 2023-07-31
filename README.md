@@ -78,6 +78,8 @@ Throughout my journey, I have actively worked on various projects and contribute
 </a>
 
 
+<ins>[and more](https://github.com/sumithemmadi?tab=repositories)</ind>
+
 Feel free to explore my other repositories for more projects, including experiments, utilities, and prototypes.
 
 ## 🤝 Open Source Contributions
