@@ -132,7 +132,7 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 - **Paypal**: [paypal.me/sumithemmadi](https://paypal.me/sumithemmadi)
 - **UPI ID** : sumithemmadi@paytm
 
-**Sponsors**
+### 💖 Sponsors
 
 [![Sponsors](https://sumithemmadi.github.io/sponsor.svg)](https://github.com/sponsors/sumithemmadi/)
 
