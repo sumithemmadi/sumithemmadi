@@ -124,7 +124,7 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and collab
 
 Let's connect and collaborate on exciting projects! Thank you for visiting my profile. Happy coding! 🚀
 
-## 💝 Sponsors
+## 💝 Sponsor
 
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
@@ -132,6 +132,9 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 - **Paypal**: [paypal.me/sumithemmadi](https://paypal.me/sumithemmadi)
 - **UPI ID** : sumithemmadi@paytm
 
+**Sponsors**
+
+[![Sponsors](https://sumithemmadi.github.io/sponsor.svg)](https://github.com/sponsors/sumithemmadi/)
 
 ## ✨ Code Stats
 
