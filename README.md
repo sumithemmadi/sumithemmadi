@@ -28,6 +28,7 @@ Learning  : Java, Kotlin.
 Telegram  : @sumithemmadi.
 ```
 
+
 I'm a versatile full stack developer with hands-on experience in various technologies. From crafting responsive front-end interfaces to building robust back-end systems, I enjoy the process of transforming ideas into functional applications. I also have a keen interest in machine learning, which allows me to apply data-driven approaches to solve complex problems and gain valuable insights from data.
 
 ## 👨‍🎓 Education
@@ -47,7 +48,9 @@ I'm a versatile full stack developer with hands-on experience in various technol
 - **Version Control**: Git
 - **Tools**: VS Code
 
-[![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&theme=dark&layout=compact&langs_count=10&title_color=blue)](https://github.com/sumithemmadi/)
+<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,typescript,js,css,html,bash,linux,git,androidstudio,java,githubactions&perline=7" alt="My Skills"/>
+
+[![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/sumithemmadi/)
   
 ## 🚀 Projects
 
@@ -58,7 +61,7 @@ Throughout my journey, I have actively worked on various projects and contribute
   - **Description**:  truecallerjs is a lightweight npm package that allows users to perform reverse phone number lookups using the Truecaller API. It simplifies the process of querying and handling Truecaller data, providing a seamless experience for developers.
 
   - **Technologies**: Typescript, Axios
-  - 
+    
 <a href="https://github.com/sumithemmadi/truecallerjs">
     <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs" alt="TruecallerJS" width="400" >
 </a>
@@ -157,9 +160,17 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
 ## ✨ Code Stats
 
+  <p align = "center">
+    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sumithemmadi&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sumithemmadi&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+  </p>
+  
+<!--
   [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&theme=tokyonight)](https://github.com/sumithemmadi/) <br>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/) <br>
   [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi) <br>
+-->
 
 If you find my work helpful or inspiring, consider supporting me by giving a ⭐️ to the repositories you like and [sponsor me](https://github.com/sponsors/sumithemmadi/). It means a lot and keeps me motivated to do more.
 
