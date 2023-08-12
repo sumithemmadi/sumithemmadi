@@ -15,7 +15,7 @@ Hello there! 👋 I'm [Sumith Emmadi](https://sumithemmadi.github.io), a passion
 
 <img align="left" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi/main/rounded-image.png" width="150px" height="220px"/> 
 
-```csharp
+```yaml
 My Profile
 -----------------------------------------------------------
 Name      : Emmadi Sumith Kumar.
