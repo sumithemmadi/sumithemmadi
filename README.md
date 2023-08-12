@@ -9,6 +9,25 @@ Hello there! 👋 I'm [Sumith Emmadi](https://sumithemmadi.github.io), a passion
 
 ## ⭐ About Me
 
+```zsh
+> neofetch
+```
+
+<img align="left" src="https://raw.githubusercontent.com/sumithemmadi/sumithemmadi/main/rounded-image.png" width="230px"/> 
+
+```csharp
+My Profile
+-----------------------------------------------------------
+Name      : Emmadi Sumith Kumar.
+WhoamI    : Student 🏫.
+Gender    : Male.
+Location  : Telangana, India.
+Hobbies   : Gaming, Coding , listening music 🎶.
+Languages : Bash,C Lang, C++, Python, NodeJS , Typescript.
+Learning  : Java, Kotlin.
+Telegram  : @sumithemmadi.
+```
+
 I'm a versatile full stack developer with hands-on experience in various technologies. From crafting responsive front-end interfaces to building robust back-end systems, I enjoy the process of transforming ideas into functional applications. I also have a keen interest in machine learning, which allows me to apply data-driven approaches to solve complex problems and gain valuable insights from data.
 
 ## 👨‍🎓 Education
