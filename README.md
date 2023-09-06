@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sumith Kumar Emmadi</h1>
+<h1 align="center">Hi 👋, I'm Sumith Emmadi</h1>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer" alt="typing" /> 
 </h3>
