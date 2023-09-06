@@ -1,11 +1,14 @@
-# Welcome to My GitHub Profile!
-[![Profile views count](https://komarev.com/ghpvc/?username=sumithemmadi)](https://github.com/sumithemmadi)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/sumithemmadi)](https://github.com/sponsors/sumithemmadi)
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<h1 align="center">Hi 👋, I'm Sumith Kumar Emmadi</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer" alt="typing" /> 
+</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sumithemmadi&label=Profile%20views&color=0e75b6&style=flat" alt="sumithemmadi" />
+  <img src="https://img.shields.io/github/sponsors/sumithemmadi" alt="GitHub Sponsors" /> 
+</p>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer)](https://github.com/sumithemmadi/)
-
-Hello there! 👋 I'm [Sumith Emmadi](https://sumithemmadi.github.io), a passionate computer science engineering student currently pursuing my studies in the CSE branch at IIIT Surat. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
+Hello there! 👋 I'm [Sumith Emmadi](https://sumithemmadi.github.io), a passionate computer science engineer currently pursuing my studies in the CSE branch at IIIT Surat. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
 
 ## ⭐ About Me
 
@@ -142,17 +145,17 @@ I'm always eager to connect with fellow developers, tech enthusiasts, and collab
 - [![Telegram](https://img.shields.io/badge/sumithemmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
 - [![Facebook](https://img.shields.io/badge/sumithemmadi-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sumithemmadi)
 - [![Instagram](https://img.shields.io/badge/sumithemmadi-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/sumithemmadi)
-- [sumithemmadi.github.io](https://sumithemmadi.github.io)
+- [sumithemmadi.live](https://sumithemmadi.live)
 
-Let's connect and collaborate on exciting projects! Thank you for visiting my profile. Happy coding! 🚀
+Let's connect and collaborate on exciting projects.
 
-## 💝 Sponsor
+## 💝 Sponsor and support me
 
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
-- **Sponsor Me**: [https://github.com/sponsors/sumithemmadi](https://github.com/sponsors/sumithemmadi/)
-- **Paypal**: [paypal.me/sumithemmadi](https://paypal.me/sumithemmadi)
-- **UPI ID** : sumithemmadi@paytm
+- [Sponsor me on github](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
+  
+<p><a href="https://www.buymeacoffee.com/sumithemmadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumithemmadi" /></a></p><br><br>
 
 ### 💖 Sponsors
 
@@ -161,17 +164,13 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 ## ✨ Code Stats
 
   <p align = "center">
-    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sumithemmadi&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
-    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/sumithemmadi"><img alt="sumithemmadi's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=sumithemmadi&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumithemmadi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumithemmadi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumithemmadi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumithemmadi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithemmadi&theme=2077" height="180em" />
   </p>
   
-<!--
-  [![sumithemmadi's github stats](https://github-readme-stats.vercel.app/api?username=sumithemmadi&show_icons=true&theme=tokyonight)](https://github.com/sumithemmadi/) <br>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sumithemmadi&theme=algolia&hide_border=true)](https://github.com/sumithemmadi/) <br>
-  [![Sumith Emmadi](https://github-profile-trophy.vercel.app/?username=sumithemmadi&row=1)](https://github.com/sumithemmadi) <br>
--->
-
 If you find my work helpful or inspiring, consider supporting me by giving a ⭐️ to the repositories you like and [sponsor me](https://github.com/sponsors/sumithemmadi/). It means a lot and keeps me motivated to do more.
 
 Thank you for visiting my profile. Let's connect and collaborate! Happy coding! 🚀
