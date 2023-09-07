@@ -163,6 +163,8 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
 [![Sponsors](https://sumithemmadi.github.io/sponsors.svg)](https://github.com/sponsors/sumithemmadi/)
 
+- I want to extend my sincere gratitude to all my sponsors for their generous support.
+
 ## ✨ Code Stats
 
   <p align = "center">
