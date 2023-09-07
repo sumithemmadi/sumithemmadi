@@ -161,7 +161,7 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
 ### 💖 Sponsors
 
-[![Sponsors](https://sumithemmadi.github.io/sponsor.svg)](https://github.com/sponsors/sumithemmadi/)
+[![Sponsors](https://sumithemmadi.github.io/sponsors.svg)](https://github.com/sponsors/sumithemmadi/)
 
 ## ✨ Code Stats
 
