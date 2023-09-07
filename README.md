@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Sumith Emmadi</h1>
-<h3 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer" alt="typing" /> 
-</h3>
+</p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=sumithemmadi&label=Profile%20views&color=0e75b6&style=flat" alt="sumithemmadi" />
   <img src="https://img.shields.io/github/sponsors/sumithemmadi" alt="GitHub Sponsors" /> 
@@ -154,8 +154,10 @@ Let's connect and collaborate on exciting projects.
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
 - [Sponsor me on github](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
-  
-<p><a href="https://www.buymeacoffee.com/sumithemmadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sumithemmadi" /></a></p><br><br>
+
+<a href='https://ko-fi.com/W7W4OZNLF' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+<a href="https://www.buymeacoffee.com/sumithemmadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sumithemmadi" /></a><br><br>
 
 ### 💖 Sponsors
 
