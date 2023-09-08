@@ -71,7 +71,7 @@ Throughout my journey, I have actively worked on various projects and contribute
 
 
 
-### 2. [truecallerpy](https://github.com/sumithemmadi/truecallerjs)
+### 2. [truecallerpy](https://github.com/sumithemmadi/truecallerpy)
 
   - **Description**: TruecallerPy is a Python package that provides functionalities to interact with the Truecaller API.
 
