@@ -1,119 +1,114 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sumith Emmadi</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cursive&color=%2336BCF7&size=35&center=true&vCenter=true&lines=Hello+I'm+Sumith;I'm+a+student;I'm+a+developer" alt="typing" /> 
-</p>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sumithemmadi&label=Profile%20views&color=0e75b6&style=flat" alt="sumithemmadi" />
-  <img src="https://img.shields.io/github/sponsors/sumithemmadi" alt="GitHub Sponsors" /> 
-</p>
+<div align="center">
+  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
+      <img style="border-radius:10px" src="https://img.shields.io/github/followers/sumithemmadi?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
+  </a>
+  <!-- this image was a nightmare -->
+  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
+      <img style="border-radius:10px" src="https://hits.sh/github.com/sumithemmadi/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
+  </a>
+  <h1 style="border-bottom: none;">Hi, I'm Sumith!</h1>
+</div>
+
+```ts
+
+let myInfo = {
+  name: "Sumith Emmadi",
+  age: 22,
+  about_me: {
+    role: "Full Stack Developer",
+    catchphrase: "I don't always code, but when I do, I prefer to do it with style."
+  },
+  education: {
+    degree: "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
+    university: "Indian Institute of Information Technology (IIIT), Surat",
+    graduation: "Expected July, 2024"
+  },
+  skills: {
+    languages: ["C", "C++", "JavaScript", "TypeScript", "Python"],
+    frontend: ["React.js", "Next.js", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js", "Python Flask"],
+    databases: ["MongoDB", "MySQL"]
+  },
+  favoriteLanguages: ["C++", "JavaScript & Node.js", "Typescript", "Python"],
+  projects: ["truecallerjs", "json-to-plain-text", "truecallerpy"],
+  contact: {
+    email: "sumithemmadi244@gmail.com",
+    protonmail: "sumithemmadi@protonmail.com",
+    linkedin: "https://www.linkedin.com/in/sumithemmadi",
+    telegram: "https://t.me/sumithemmadi"
+  },
+  sponsorship: {
+    github: "https://github.com/sponsors/sumithemmadi",
+    "ko-fi": "https://ko-fi.com/W7W4OZNLF",
+    buymeacoffee: "https://www.buymeacoffee.com/sumithemmadi"
+  },
+  fun_facts:
+    [
+        "I once solved a bug by turning off my computer and turning it back on. It works like magic, trust me",
+        "I once debugged a complex issue for hours, only to find a missing semicolon was the culprit!"
+    ]
+};
+```
+
+## My Skill Set
+
+<table><tr><td valign="top" width="33%">
 
 
-Hello there! 👋 I'm [Sumith Emmadi](https://sumithemmadi.github.io), a passionate computer science engineer currently pursuing my studies in the CSE branch at IIIT Surat. With a strong passion for coding and a background in computer science engineering, I have developed a solid foundation in software development. My dedication and enthusiasm drive me to constantly expand my skill set and stay up-to-date with the latest industry trends.
 
-## ⭐ About Me
+### Frontend  
+<div align="center">  
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>   
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="50" /></a>   
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vitejs" height="50" /></a>   
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
+  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" height="50" /></a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
+  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>  
+</div>
 
-I'm a versatile full stack developer with hands-on experience in various technologies. From crafting responsive front-end interfaces to building robust back-end systems, I enjoy the process of transforming ideas into functional applications. I also have a keen interest in machine learning, which allows me to apply data-driven approaches to solve complex problems and gain valuable insights from data.
-
-## 👨‍🎓 Education
-
-- Bachelor of Technology (B.Tech) in Computer Science and Engineering
-  - [Indian Institute of Information Technology (IIIT), Surat](https://www.google.com/search?q=IIIT+Surat&oq=IIIT+Surat&aqs=chrome..69i57j69i60l3j69i65.7945j0j7&client=ms-android-xiaomi-rev1&sourceid=chrome-mobile&ie=UTF-8)
-  - Expected Graduation: July, 2024
-
-
-## 🧑‍💻 Skills
-
-- **Languages**: C and C++ , JavaScript, TypeScript, Python
-- **Frontend**: React.js, Next.js, HTML, CSS
-- **Backend**: Node.js, Express.js, Python Flask
-- **Databases**: MongoDB, MySQL
-- **Machine Learning**: Scikit-learn, Pandas, NumPy
-- **Version Control**: Git
-- **Tools**: VS Code
-
-<img src="https://skillicons.dev/icons?i=c,cpp,py,nodejs,typescript,js,css,html,bash,linux,git,androidstudio,java,githubactions&perline=7" alt="My Skills"/>
-
-[![sumithemmadi's github programming languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866)](https://github.com/sumithemmadi/)
-  
-## 🚀 Projects
-
-Throughout my journey, I have actively worked on various projects and contributed to the developer community. Here are some of my notable projects:
-
-### 1. [truecallerjs](https://github.com/sumithemmadi/truecallerjs)
-
-  - **Description**:  truecallerjs is a lightweight npm package that allows users to perform reverse phone number lookups using the Truecaller API. It simplifies the process of querying and handling Truecaller data, providing a seamless experience for developers.
-
-  - **Technologies**: Typescript, Axios
-    
-<a href="https://github.com/sumithemmadi/truecallerjs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerjs" alt="TruecallerJS" width="400" >
-</a>
+</td><td valign="top" width="33%">
 
 
 
-### 2. [truecallerpy](https://github.com/sumithemmadi/truecallerpy)
+### Backend  
+<div align="center">  
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>  
+  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>  
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
+  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>  
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>   
+  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>  
+  <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mariadb" alt="Maria DB" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+</a>  
+</div>
 
-  - **Description**: TruecallerPy is a Python package that provides functionalities to interact with the Truecaller API.
-
-  - **Technologies**: Python, JSON
-
-<a href="https://github.com/sumithemmadi/truecallerpy">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/truecallerpy" alt="Truecallerpy" width="400" >
-</a>
-
-### 3. [json-to-plain-text](https://github.com/sumithemmadi/json-to-plain-text)
-
-  - **Description**:  json-to-plain-text is a npm module that converts JSON-like data or plain JavaScript objects to a formatted plain text representation.
-
-  - **Technologies**: Node.js
-    
-<a href="https://github.com/sumithemmadi/json-to-plain-text">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/json-to-plain-text" alt="json-to-plain-text" width="400" >
-</a>
-
-
-### 4. [bhimupijs](https://github.com/sumithemmadi/bhimupijs)
-
-  - **Description**:  BHIMUPIJS is a npm module which can validate, verify and generate QR Codes for UPI IDs.
-
-  - **Technologies**: Node.js
-
-<a href="https://github.com/sumithemmadi/bhimupijs">
-    <img src="https://opengraph.githubassets.com/83b8abc33a7b26898a4846558d1c70d88bb7c08a9ac0493e8eccf7cd2e683d47/sumithemmadi/bhimupijs" alt="bhimupijs" width="400" >
-</a>
+</td><td valign="top" width="33%">
 
 
-<ins>[and more](https://github.com/sumithemmadi?tab=repositories)</ind>
 
-Feel free to explore my other repositories for more projects, including experiments, utilities, and prototypes.
+### DevOps  
+<div align="center">  
+  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
+  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
+  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" /></a>  
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  
+  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
+  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Awesome Web Services" height="50" /></a> 
+</div>
 
-## 🤝 Open Source Contributions
-
-Apart from the projects mentioned above, I'm also trying to contribute to open source projects.
-
-<!--
-🛠
-## Hackathons and Competitions
-
-- [Hackathon/Competition 1]: Description, [Year]
-- [Hackathon/Competition 2]: Description, [Year]
-
-## 😜 Fun Facts
-
-- Add a fun fact about yourself!
-
-## ❣️ Interests
-
-Apart from coding, I love hiking, playing guitar, and trying out new recipes.
-
-
-## 👑 Achievements
-
-- [Award/Achievement 1]: Description
-- [Award/Achievement 2]: Description
-
--->
+</td></tr>
+</table>  
+<br/>  
 
 ## ☎️ Get in Touch
 
@@ -149,6 +144,7 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 ## ✨ Code Stats
 
   <p align = "center">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumithemmadi&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumithemmadi&theme=2077" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumithemmadi&theme=2077" height="180em" />
