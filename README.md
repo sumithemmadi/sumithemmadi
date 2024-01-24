@@ -145,11 +145,6 @@ If you find my projects helpful or inspiring, consider supporting me through Git
 
   <p align = "center">
     <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sumithemmadi&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sumithemmadi&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sumithemmadi&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sumithemmadi&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumithemmadi&theme=2077" height="180em" />
   </p>
   
 If you find my work helpful or inspiring, consider supporting me by giving a ⭐️ to the repositories you like and [sponsor me](https://github.com/sponsors/sumithemmadi/). It means a lot and keeps me motivated to do more.
