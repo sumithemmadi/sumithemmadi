@@ -21,13 +21,12 @@ let myInfo = {
   education: {
     degree: "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
     university: "Indian Institute of Information Technology (IIIT), Surat",
-    graduation: "Expected July, 2024"
   },
   skills: {
-    languages: ["C", "C++", "JavaScript", "TypeScript", "Python"],
-    frontend: ["React.js", "Next.js", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js", "Python Flask"],
-    databases: ["MongoDB", "MySQL"]
+    languages: ["C", "C++", "Java", "JavaScript", "Kotlin", "TypeScript", "Python"],
+    frontend: ["React.js", "Vite.js", "HTML", "CSS"],
+    backend: ["Express.js", "Python Flask", "Spring Boot"],
+    databases: ["MongoDB", "MySQL","PostgreSQL"]
   },
   favoriteLanguages: ["C++", "JavaScript & Node.js", "Typescript", "Python"],
   projects: ["truecallerjs", "json-to-plain-text", "truecallerpy"],
@@ -36,11 +35,6 @@ let myInfo = {
     protonmail: "sumithemmadi@protonmail.com",
     linkedin: "https://www.linkedin.com/in/sumithemmadi",
     telegram: "https://t.me/sumithemmadi"
-  },
-  sponsorship: {
-    github: "https://github.com/sponsors/sumithemmadi",
-    "ko-fi": "https://ko-fi.com/W7W4OZNLF",
-    buymeacoffee: "https://www.buymeacoffee.com/sumithemmadi"
   },
   fun_facts:
     [
@@ -62,11 +56,9 @@ let myInfo = {
   <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="50" /></a>   
   <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vitejs" height="50" /></a>   
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
-  <a href="https://tailwindcss.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" height="50" /></a> 
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
-  <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" height="50" /></a>  
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -83,8 +75,7 @@ let myInfo = {
   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>  
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>   
+  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>  
   <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
@@ -99,7 +90,6 @@ let myInfo = {
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-  <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="50" /></a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
@@ -124,11 +114,7 @@ Let's connect and collaborate on exciting projects.
 
 If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
 
-[:heart: Sponsor me on github](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
-
-<a href='https://ko-fi.com/W7W4OZNLF' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<a href="https://www.buymeacoffee.com/sumithemmadi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="sumithemmadi" /></a><br><br>
+[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
 
 ### 💖 Sponsors
 
@@ -144,4 +130,6 @@ If you find my projects helpful or inspiring, consider supporting me through Git
   
 If you find my work helpful or inspiring, consider supporting me by giving a ⭐️ to the repositories you like and [sponsor me](https://github.com/sponsors/sumithemmadi/). It means a lot and keeps me motivated to do more.
 
-Thank you for visiting my profile. Let's connect and collaborate! Happy coding! 🚀
+Thank you for visiting my profile.
+
+Happy coding! 🚀
