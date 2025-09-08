@@ -1,135 +1,67 @@
-<div align="center">
-  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
-      <img style="border-radius:10px" src="https://img.shields.io/github/followers/sumithemmadi?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
-  </a>
-  <!-- this image was a nightmare -->
-  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
-      <img style="border-radius:10px" src="https://hits.sh/github.com/sumithemmadi/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
-  </a>
-  <h1 style="border-bottom: none;">Hi, I'm Sumith!</h1>
-</div>
-
-```ts
-
-let myInfo = {
-  name: "Sumith Emmadi",
-  age: 22,
-  about_me: {
-    role: "Full Stack Developer",
-    catchphrase: "I don't always code, but when I do, I prefer to do it with style."
-  },
-  education: {
-    degree: "Bachelor of Technology (B.Tech) in Computer Science and Engineering",
-    university: "Indian Institute of Information Technology (IIIT), Surat",
-  },
-  skills: {
-    languages: ["C", "C++", "Java", "JavaScript", "Kotlin", "TypeScript", "Python"],
-    frontend: ["React.js", "Vite.js", "HTML", "CSS"],
-    backend: ["Express.js", "Python Flask", "Spring Boot"],
-    databases: ["MongoDB", "MySQL","PostgreSQL"]
-  },
-  favoriteLanguages: ["C++", "JavaScript & Node.js", "Typescript", "Python"],
-  projects: ["truecallerjs", "json-to-plain-text", "truecallerpy"],
-  contact: {
-    email: "sumithemmadi244@gmail.com",
-    protonmail: "sumithemmadi@protonmail.com",
-    linkedin: "https://www.linkedin.com/in/sumithemmadi",
-    telegram: "https://t.me/sumithemmadi"
-  },
-  fun_facts:
-    [
-        "I once solved a bug by turning off my computer and turning it back on. It works like magic, trust me",
-        "I once debugged a complex issue for hours, only to find a missing semicolon was the culprit!"
-    ]
-};
-```
-
-## My Skill Set
-
-<table><tr><td valign="top" width="33%">
+![👋 Hi, my name is Sumith Emmadi](assets/banner.jpg)
 
 
+### 👾 &nbsp;About Me
 
-### Frontend  
-<div align="center">  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>   
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" height="50" /></a>   
-  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vite" alt="vitejs" height="50" /></a>   
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50"/></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a> 
-</div>
+&nbsp;&nbsp;&nbsp;👨‍💻 &nbsp;Hi, I’m **Sumith Emmadi**, a Software Engineer. \
+&nbsp;&nbsp;&nbsp;🌱 &nbsp;Curious about science, technology, and continuous learning. \
+&nbsp;&nbsp;&nbsp;❤️ &nbsp;Passionate about problem-solving, automation, and building practical solutions. \
+&nbsp;&nbsp;&nbsp;✍️ &nbsp;Currently diving deeper into **software architecture**. \
+&nbsp;&nbsp;&nbsp;⚡ &nbsp;Started coding young, now growing into full-stack. \
+&nbsp;&nbsp;&nbsp;🌍 &nbsp;Based in India and always open to collaborate with developers worldwide.
 
-</td><td valign="top" width="33%">
+<p align="center">
+  <a href="mailto:hello@sumithemmadi.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sumithemmadi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/sumithemmadi"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
+---
 
+<details>
+  <summary><b>💻 &nbsp;Tech Stack</b></summary>
+  <br/>
 
-### Backend  
-<div align="center">  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=c" alt="C" height="50" /></a>  
-  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="50" /></a>  
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a>  
-  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
-  <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="50" /></a>  
-  <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mariadb.png" alt="Maria DB" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
-</a>  
-</div>
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=flat&logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/BASH-121011.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-6DB33F.svg?&style=flat&logo=springboot&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![ViteJS](https://img.shields.io/badge/VITEJS-646CFF.svg?&style=flat&logo=vite&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/REACT-20232A.svg?&style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A.svg?&style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
+![Cloudflare](https://img.shields.io/badge/CLOUDFLARE-F38020.svg?&style=flat&logo=cloudflare&logoColor=white)&nbsp;
+![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MYSQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+.
 
-</td><td valign="top" width="33%">
+</details>
 
+<details>
+  <summary><b>📊 &nbsp;GitHub Stats</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=sumithemmadi&hide_border=true&theme=nightowl" />
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumithemmadi&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
+---
 
-### DevOps  
-<div align="center">  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-  <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=bash" alt="Bash" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="50" /></a>  
-  <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="50" /></a> 
-  <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="Awesome Web Services" height="50" /></a> 
-</div>
-
-</td></tr>
-</table>  
-<br/>  
-
-## ☎️ Get in Touch
-
-I'm always eager to connect with fellow developers, tech enthusiasts, and collaborators. Feel free to reach out to me through the following channels:
-
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithemmadi244@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/sumithemmadi-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumithemmadi)
-- [![Telegram](https://img.shields.io/badge/sumithemmadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sumithemmadi)
-
-Let's connect and collaborate on exciting projects.
-
-## 💝 Sponsor and support me
-
-If you find my projects helpful or inspiring, consider supporting me through GitHub Sponsors. Your sponsorship helps me dedicate more time and effort to open source development and creating impactful projects.
-
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sumithemmadi?o=sd&sc=t)
-
-### 💖 Sponsors
-
-[![Sponsors](https://sumithemmadi.github.io/sponsors.svg)](https://github.com/sponsors/sumithemmadi/)
-
-- I want to extend my sincere gratitude to all my sponsors for their generous support.
-
-## ✨ Code Stats
-
-  <p align = "center">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sumithemmadi&langs_count=10&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180em" />
-  </p>
-  
-If you find my work helpful or inspiring, consider supporting me by giving a ⭐️ to the repositories you like and [sponsor me](https://github.com/sponsors/sumithemmadi/). It means a lot and keeps me motivated to do more.
-
-Thank you for visiting my profile.
-
-Happy coding! 🚀
+<p align="center">
+ <a href="https://github.com/sponsors/sumithemmadi">
+   <img src="assets/sponsor-button.svg" alt="Sponsor Me on github.com" style="max-width: 100%;">
+ </a>
+</p>
